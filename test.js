@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  alert("upload folder");
+  alert("upload files");
 });
